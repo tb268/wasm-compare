@@ -1,4 +1,4 @@
-import init, { PhysicsEngine } from "./pkg/wasm_dragdrop.js";
+import init, { PhysicsEngine } from "./pkg/wasm_compare.js";
 
 // =========================================================================
 // Physics simulation class on the JavaScript side
