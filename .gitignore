@@ -1,0 +1,8 @@
+# Rust
+/target/
+
+# wasm-pack build output
+/pkg/
+
+# macOS
+.DS_Store
